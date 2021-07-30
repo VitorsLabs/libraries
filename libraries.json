@@ -1192,6 +1192,19 @@
       "description":"JavaScript runtime built on V8 engine and libuv",
       "image":"https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg"
     },
+    "Nullstack":{
+      "imports":[
+        "nullstack"
+      ],
+      "technologies":[
+        "Frontend",
+        "Web Development",
+        "SPA",
+        "JavaScript Frameworks"
+      ],
+      "description":"Nullstack is a full-stack framework for building progressive web applications.",
+      "image":"https://raw.githubusercontent.com/nullstack/create-nullstack-app/master/src/template/public/icon-128x128.png"
+    },
     "NuxtJS":{
       "imports":[
         "nuxtjs"
